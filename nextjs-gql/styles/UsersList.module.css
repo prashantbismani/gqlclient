@@ -1,0 +1,21 @@
+/* UsersList.module.css */
+
+.title {
+  color: #333;
+}
+
+.userList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.userItem {
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.userItem strong {
+  margin-right: 5px;
+}
